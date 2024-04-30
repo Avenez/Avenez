@@ -28,7 +28,7 @@ Elasticity, planning ability and the incessant desire to learn characterize my p
 ### 📺 Projects Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![PoketCharacter](https://ytcards.demolab.com/?id=zG1cM9VSINg&title=A+Complete+Overview+of+DevOps&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=867 "Poket Character Demo")](https://youtu.be/1s7Nsq9a97w?si=j1s5e2PEe9O_6U8n)
+[![PoketCharacter]("Poket Character Demo")](https://youtu.be/1s7Nsq9a97w?si=j1s5e2PEe9O_6U8n)
 <!-- END YOUTUBE-CARDS -->
 
 #
