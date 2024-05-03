@@ -28,7 +28,7 @@ Elasticity, planning ability and the incessant desire to learn characterize my p
 ### 📺 Projects Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![PocketCharacter Demo](https://img.youtube.com/vi/1s7Nsq9a97w/0.jpg)](https://www.youtube.com/watch?v=1s7Nsq9a97w)
+[![PocketCharacter Demo](https://img.youtube.com/vi/3nvnRLBUXvE/0.jpg)](https://www.youtube.com/watch?v=3nvnRLBUXvE)
 <!-- END YOUTUBE-CARDS -->
 
 #
